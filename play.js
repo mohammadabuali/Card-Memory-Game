@@ -32,6 +32,7 @@ function shuffleArray(array) {
     }
 }
 
+
 function named(a)
 {
     let x = 'images\\' +  + a + '.png';
